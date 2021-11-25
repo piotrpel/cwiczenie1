@@ -1,1 +1,3 @@
 To jest plik tekstowy
+
+Zmiany w pliku
